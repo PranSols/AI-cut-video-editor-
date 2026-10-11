@@ -1,0 +1,6 @@
+{
+  "name": "CapCut Studio AI - Video Editor",
+  "description": "Professional video editor with AI-powered templates, multi-track timeline editing, dynamic captions, real-time effects, and multi-platform social export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
